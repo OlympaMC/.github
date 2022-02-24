@@ -1,9 +1,9 @@
 # Olympa
-Olympa was a multi-game Minecraft server. We were about 25 volunteers, including 4 developers.
+Olympa was a multi-game Minecraft server. We were about 25 volunteers, including 5 developers.
 
 We proposed mainly 4 types of games :
 - ZTA (GTA Minecraft revisited)
-- Creative (Free construction, with controls_blocks, redstone, mobs...)
+- Creative (Free construction, with command blocks, redstone, mobs...)
 - PvP-Kit (Fight between players with different Minecraft objects)
 - Warfare (FPS in Minecraft, with 3D models implemented in Minecraft)
 
