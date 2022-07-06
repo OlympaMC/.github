@@ -21,4 +21,4 @@ Our servers and our website were hosted at OVH, on a powerful dedicated machine.
 
 ## Notes
 ~~The server is now closed and here are some archived repos. All repo are licensed under the GNU GPLv3.~~
-**We were originally on GitLab. We chose to archive our repos on GitHub. The transfer and the writing of the README is in progress ...**
+**We were originally on GitLab. We chose to archive our repos on GitHub. The transfer and the writing of the README is in progress ... There is still a lot of repo in private.**
